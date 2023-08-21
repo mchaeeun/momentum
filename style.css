@@ -1,3 +1,18 @@
+body {
+    background-size: cover;
+}
+
+#main {
+    background-color: #bababa;
+    background-color: rgba(255, 255, 255, 0.4);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 0 auto;
+    padding: 20px;
+    width: 1000px;
+    height: 600px;
+}
+
 #real-time {
     font-size: 100px;
     text-align: center;
